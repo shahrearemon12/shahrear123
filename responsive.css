@@ -1,0 +1,16 @@
+@media (max-width:1400px) {
+    .mid-content {
+        max-width: 100%;
+        margin: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+@media (max-width:1200px) {
+    .mid-content {
+        max-width: 100%;
+        margin: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
